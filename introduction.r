@@ -62,4 +62,3 @@ mpg%>%
 mpg%>%
   mutate(conversion = displ*.16)%>%
   arrange(desc(cty))
-```
