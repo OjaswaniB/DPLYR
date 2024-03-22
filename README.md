@@ -1,4 +1,4 @@
-# DPLYR
+# Build Data Analysis tools using R and DPLYR
 ### A Powerful Data Wrangling Toolkit for R
 DPLYR is a versatile R package that streamlines data manipulation tasks, making it an essential tool for data scientists and analysts. It offers a concise and intuitive syntax for filtering, selecting, grouping, summarizing, and transforming data frames. This readme file serves as a guide to empower you to leverage dplyr's capabilities effectively.
 
